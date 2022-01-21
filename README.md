@@ -1,1 +1,1 @@
-# spring-boot-mongodb
+# spring-boot-mongo-examples
